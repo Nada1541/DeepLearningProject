@@ -10,11 +10,11 @@ This project implements a Siamese Neural Network for handwritten signature verif
    
 2. **Dataset 2**: Another signature dataset with real and forged signatures.
 
-https://www.kaggle.com/datasets/eryash15/re-arranged-data
+   https://www.kaggle.com/datasets/eryash15/re-arranged-data
    
 3. **Dataset 3**: A collection with multiple datasets containing real and forged signatures.
 
-https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures
+   https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures
 
 
 ## Features
