@@ -21,20 +21,11 @@ This project implements a Siamese Neural Network for handwritten signature verif
 ```bash
 pip install tensorflow opencv-python scikit-learn matplotlib
 ```
-
-## Usage
-
-1. **Preprocessing and Model Training**:
-   - The function `preprocess_dataset` loads and preprocesses images from a given dataset.
-   - `train_and_evaluate` trains the Siamese network using the prepared image pairs.
-   
-2. **Sample Pair Visualization**:
-   - The function `show_sample_pairs_with_labels` visualizes pairs of images along with their labels for inspection.
-
-3. **Model Evaluation**:
-   - The model’s performance is displayed after training with metrics: accuracy, precision, recall, and F1 score.
-
-## Requirements
-
-- Python 3.x
-- TensorFlow, OpenCV, scikit-learn, matplotlib
+## How to Run
+**Clone the Repository**
+**Prepare the Datasets:**
+*Dataset 1: Use the path /kaggle/input/cedardataset.
+*Dataset 2: Use the path /kaggle/input/re-arranged-data.
+*Dataset 3: Use paths from /kaggle/input/handwritten-signatures.
+Make sure the dataset files are properly placed according to the provided folder structure.
+**Run the Code**
