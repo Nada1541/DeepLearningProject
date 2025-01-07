@@ -30,7 +30,10 @@ This project implements a Siamese Neural Network for handwritten signature verif
 ```bash
 pip install tensorflow opencv-python scikit-learn matplotlib
 ```
+## Report
+- [Handwritten signature verification Report.pdf](https://github.com/user-attachments/files/18335449/Handwritten.signature.verification.Report.pdf)
+
 ## How to Run
 - **Clone the Repository**
 - **Prepare the Datasets**
-- **Run the Code**
+- **Run the Code on google colab**
