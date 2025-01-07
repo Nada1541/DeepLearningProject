@@ -5,8 +5,17 @@ This project implements a Siamese Neural Network for handwritten signature verif
 ## Datasets Used
 
 1. **Dataset 1**: A signature dataset for real vs forged signature classification.
+
+   https://www.kaggle.com/datasets/shreelakshmigp/cedardataset
+   
 2. **Dataset 2**: Another signature dataset with real and forged signatures.
+
+https://www.kaggle.com/datasets/eryash15/re-arranged-data
+   
 3. **Dataset 3**: A collection with multiple datasets containing real and forged signatures.
+
+https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures
+
 
 ## Features
 
@@ -22,10 +31,6 @@ This project implements a Siamese Neural Network for handwritten signature verif
 pip install tensorflow opencv-python scikit-learn matplotlib
 ```
 ## How to Run
-**Clone the Repository**
-**Prepare the Datasets:**
-*Dataset 1: Use the path /kaggle/input/cedardataset.
-*Dataset 2: Use the path /kaggle/input/re-arranged-data.
-*Dataset 3: Use paths from /kaggle/input/handwritten-signatures.
-Make sure the dataset files are properly placed according to the provided folder structure.
-**Run the Code**
+- **Clone the Repository**
+- **Prepare the Datasets**
+- **Run the Code**
